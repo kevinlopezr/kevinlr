@@ -9,6 +9,15 @@
 	--color-info: #000;
 }
 
+.circular {
+    border-radius: 50%;
+    border:1px black solid;
+    background-color:white;
+    padding:3px;
+    box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.8);
+    width: 200px; height: 200px;
+}
+
 .content__title {
 	font-family: 'Playfair Display', serif;
 	font-size: 8vw;
